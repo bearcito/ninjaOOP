@@ -18,7 +18,7 @@ class Ninja {
  }
 }
 
-const ninja1 = new Ninja("tenten",75);
+const ninja1 = new Ninja("Hyabusa",75);
 ninja1.sayName();
 ninja1.showStats();
 ninja1.drinkSake()
